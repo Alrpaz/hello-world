@@ -1,4 +1,4 @@
 # hello-world - learning python and new to git
 
 raw_input ( "Enter a number:")
-print raw_input
+print((raw_input)"is this your number?")
